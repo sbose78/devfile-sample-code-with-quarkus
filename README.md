@@ -26,7 +26,7 @@ If you want to build an _über-jar_, execute the following command:
 ```shell script
 ./mvnw package -Dquarkus.package.type=uber-jar
 ```
-
+dddd
 The application is now runnable using `java -jar target/quarkus-app/quarkus-run.jar`.
 
 ## Creating a native executable

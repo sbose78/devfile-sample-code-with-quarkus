@@ -31,7 +31,7 @@ The application is now runnable using `java -jar target/quarkus-app/quarkus-run.
 
 ## Creating a native executable
 
-You can create a native executable using: 
+You can create a native executable using: fsdfdsfs
 ```shell script
 ./mvnw package -Pnative
 ```
